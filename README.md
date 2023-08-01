@@ -1,1 +1,1 @@
-# ECommerce_dataBase_Analysis_SQL
+# SQL_Project_Music_Store_Analysis
